@@ -1,0 +1,1 @@
+[03-Jun-2020 10:14:25 Europe/Moscow] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/' - /usr/lib64/php/modules/: cannot read file data: Is a directory in Unknown on line 0
